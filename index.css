@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+.email {
+  color: #32CD32
+}
 
 /* Split the screen in half */
 .split {
@@ -43,34 +46,3 @@
 li {
   list-style: none;
 }
-
-/*
-
-body {
-  margin: 5rem;
-  background-color: #eee;
-}
-
-p {
-  font-family: 'Roboto', sans-serif !important;
-}
-
-a {
-  text-decoration: none;
-}
-
-a:active {
-  text-decoration: none;
-}
-
-h1 {
-  font-family: 'Roboto', sans-serif !important;
-}
-
-ul {
-  font-family: 'Roboto', sans-serif !important;
-}
-
-li {
-  font-family: 'Roboto', sans-serif !important;
-} */
