@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-body {
+p {
   font-family: 'Roboto', sans-serif;
 }
 
 h1 {
   color: red;
+  font-family: 'Roboto', sans-serif;
 }
