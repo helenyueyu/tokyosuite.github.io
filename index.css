@@ -1,8 +1,50 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-.description {
-  color: red !important;
+
+/* Split the screen in half */
+.split {
+  height: 100%;
+  width: 70%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
 }
+
+/* Control the left side */
+.left {
+  left: 0;
+  background-color: white;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+  background-color: #32CD32;
+}
+
+.leftie {
+  margin: 2rem;
+  width: 20vw;
+  font-family: 'Roboto', sans-serif;
+}
+/* If you want the content centered horizontally and vertically */
+.rightie {
+  margin: 2rem;
+  width: 60vw;
+  font-family: 'Roboto', sans-serif;
+}
+
+.description {
+  margin-left: 2rem;
+}
+
+li {
+  list-style: none;
+}
+
+/*
 
 body {
   margin: 5rem;
@@ -13,8 +55,15 @@ p {
   font-family: 'Roboto', sans-serif !important;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
 h1 {
-  color: red !important;
   font-family: 'Roboto', sans-serif !important;
 }
 
@@ -24,4 +73,4 @@ ul {
 
 li {
   font-family: 'Roboto', sans-serif !important;
-}
+} */
