@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+
+h1 {
+  color: #32CD32
+}
+
 .email {
   color: #32CD32
 }
