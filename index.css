@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+.description {
+  color: red !important;
+}
+
 body {
   margin: 5rem;
-  background-color: #eee; 
+  background-color: #eee;
 }
 
 p {
